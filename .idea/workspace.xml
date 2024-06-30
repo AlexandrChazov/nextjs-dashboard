@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9937e81f-3390-47ea-b0dd-b5af33cabaf2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.nvmrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/lib/data.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/lib/definitions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/lib/placeholder-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/lib/utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ui/acme-logo.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ui/button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ui/customers/table.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ui/dashboard/cards.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ui/dashboard/latest-invoices.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ui/dashboard/nav-links.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ui/dashboard/revenue-chart.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ui/dashboard/sidenav.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ui/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ui/invoices/breadcrumbs.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ui/invoices/buttons.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ui/invoices/create-form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ui/invoices/edit-form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ui/invoices/pagination.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ui/invoices/status.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ui/invoices/table.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ui/login-form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ui/search.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ui/skeletons.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prettier.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/customers/amy-burns.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/customers/balazs-orban.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/customers/delba-de-oliveira.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/customers/emil-kowalski.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/customers/evil-rabbit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/customers/guillermo-rauch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/customers/hector-simpson.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/customers/jared-palmer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/customers/lee-robinson.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/customers/michael-novotny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/customers/steph-dietz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/customers/steven-tey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/hero-desktop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/hero-mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/opengraph-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/seed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2hyBOgqOgyCf4DwECBbhH3o8CYA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Education/nextjs-dashboard&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;pnpm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;D:\\Education\\nextjs-dashboard\\node_modules\\prettier&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Education\\nextjs-dashboard\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9937e81f-3390-47ea-b0dd-b5af33cabaf2" name="Changes" comment="" />
+      <created>1718556406195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718556406195</updated>
+      <workItem from="1718556407230" duration="239000" />
+      <workItem from="1718556656905" duration="41000" />
+      <workItem from="1718556706787" duration="2485000" />
+      <workItem from="1718593751751" duration="48000" />
+      <workItem from="1719752638760" duration="979000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
